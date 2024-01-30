@@ -9,9 +9,6 @@ metadata:
   tags:
     - documentation
     - spp
-  links:
-      title: Statistical Method Specifications
-      icon: search
 spec:
   type: library
   lifecycle: production
